@@ -1,0 +1,10 @@
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\bin\Debug\A3GameV1.exe.config
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\bin\Debug\A3GameV1.exe
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\bin\Debug\A3GameV1.pdb
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\obj\Debug\A3GameV1.csprojResolveAssemblyReference.cache
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\obj\Debug\A3GameV1.Form1.resources
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\obj\Debug\A3GameV1.Properties.Resources.resources
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\obj\Debug\A3GameV1.csproj.GenerateResource.Cache
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\obj\Debug\A3GameV1.csproj.CoreCompileInputs.cache
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\obj\Debug\A3GameV1.exe
+C:\Users\TuanTruong\Desktop\A3GameV1\A3GameV1\obj\Debug\A3GameV1.pdb

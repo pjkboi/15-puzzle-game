@@ -1,0 +1,18 @@
+4
+4
+A3GameV1.Square, Text: 1
+A3GameV1.Square, Text: 6
+A3GameV1.Square, Text: 2
+A3GameV1.Square, Text: 4
+
+A3GameV1.Square, Text: 5
+A3GameV1.Square, Text: 3
+A3GameV1.Square, Text: 8
+A3GameV1.Square, Text: 9
+A3GameV1.Square, Text: 10
+A3GameV1.Square, Text: 7
+A3GameV1.Square, Text: 11
+A3GameV1.Square, Text: 13
+A3GameV1.Square, Text: 14
+A3GameV1.Square, Text: 15
+A3GameV1.Square, Text: 12
